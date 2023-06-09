@@ -6,14 +6,4 @@
 1. Vloging site
 2. Text Editors
 3. News app etc.
-
-![Image Not found](picc.jpg)
-
-https://bableshaazad.com
-
-[BableshAAzad](https://bableshaazad.com)
-
-|col-1|col-2|col-3|
-|---|---|---|
-|Name|Bablesh|
-|AAZad||Kumar|
+visit on [BableshAAzad](https://bableshaazad.com)
