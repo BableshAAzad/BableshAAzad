@@ -6,5 +6,3 @@
 1. Vloging site
 2. Text Editors
 3. News app etc.
-
-visit on [BableshAAzad.com](https://bableshaazad.com)
