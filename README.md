@@ -35,12 +35,11 @@
 <a href="https://discord.com/invite/YphCQRq9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bableshaazad" height="30" width="40" /></a>
 </p>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bableshaazad&size_weight=0.5&count_weight=0.5layout=compact&theme=dark)](https://github.com/BableshAAzad/BableshAAzad) -->
 
-[![Bablesh](https://github-readme-stats.vercel.app/api/wakatime?username=bableshaazad)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bableshaazad&theme=great-gatsby&show_icons=true&locale=en&layout=compact" alt="bableshaazad" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bableshaazad&&size_weight=0.5&count_weight=0.5&theme=great-gatsby&show_icons=true&locale=en&layout=compact" alt="bableshaazad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bableshaazad&theme=merko&show_icons=true&locale=en" alt="bableshaazad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bableshaazad&theme=dark" alt="bableshaazad" /></p>
+
+<p><img align="center" src="https://ionicabizau.github.io/github-profile-languages/api.html?bableshaazad" alt="bableshaazad" /></p>
