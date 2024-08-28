@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bableshaazad&label=Profile%20views&color=0e75b6&style=flat" alt="bableshaazad" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bableshaazad" target="blank"><img src="https://img.shields.io/twitter/follow/bableshaazad?logo=twitter&style=for-the-badge" alt="bableshaazad" /></a> </p>
-- 📫 How to reach me **https://bableshaazad.com**
+- 📫 How to reach me https://bableshaazad.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
