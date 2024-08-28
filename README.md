@@ -8,21 +8,21 @@
 
 </hr>
 
-[![](https://img.shields.io/badge/Backend Languages:-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
+[![Backend Languages:](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
 [![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
 [![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
 [![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
 
- >[!CAUTION]⚙️ 
- > `Java`  |  `Hibernate`  |  `Spring`  |  `Spring Boot`  |  `Spring Security`  |  `JWT` | `JDBC` | `Servlet & Thymeleaf`
+ [!CAUTION]⚙️ 
+  `Java`  |  `Hibernate`  |  `Spring`  |  `Spring Boot`  |  `Spring Security`  |  `JWT` | `JDBC` | `Servlet & Thymeleaf`
 
- >💻 + Frontend Languages:
- > `HTML5`  |  `CSS3`  |  `Tailwind CSS ` |  `JavaScript`  |  `ReactJS`  |  `React Router Dom` | `Redux` | `Zustand`
+ 💻 + Frontend Languages:
+  `HTML5`  |  `CSS3`  |  `Tailwind CSS ` |  `JavaScript`  |  `ReactJS`  |  `React Router Dom` | `Redux` | `Zustand`
 
- >📚 ! Databases: `MySQL`  |  `MongoDB`
+ 📚 ! Databases: `MySQL`  |  `MongoDB`
 
- >🛠️ @@ Tools: 
- >`Git & GitHub`  |  `Postman` | `CI/CD`| `Docker` | `Eclipse IDE`  |  `Spring Tool Suite`  |  `IntelliJ IDE`A  |  `VS Code`
+ 🛠️ @@ Tools: 
+ `Git & GitHub`  |  `Postman` | `CI/CD`| `Docker` | `Eclipse IDE`  |  `Spring Tool Suite`  |  `IntelliJ IDE`A  |  `VS Code`
 
 </hr>
 
