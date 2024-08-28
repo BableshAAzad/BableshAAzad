@@ -1,25 +1,11 @@
-<h1 align="center">Hi😁, I'm BableshAAzad</h1>
-<h3 align="center">Java Full Stack Web App Developer and Electronics & Telecommunication Engineer(ET&T) from India</h3>
+## Hi :smile:I am "Bablesh AAzad" 
+
+``` " I am a full stack web app devloper and Electronics and Telecommunication Engineer(ET&T). I want to give a affordable website to all organition or startups. There post my repository and works. If you want to order website than visit my website``` [BableshAAzad.com](https://bableshaazad.com) "
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bableshaazad&label=Profile%20views&color=0e75b6&style=flat" alt="bableshaazad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bableshaazad" alt="bableshaazad" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/bableshaazad" target="blank"><img src="https://img.shields.io/twitter/follow/bableshaazad?logo=twitter&style=for-the-badge" alt="bableshaazad" /></a> </p>
-
-- 🔭 I’m currently working on [Ecommerce-Shopping-App](https://github.com/BableshAAzad/Ecommerce_Shopping_App)
-
-- 🌱 I’m currently learning **Spring Boot Cloud**
-
-- 👨‍💻 All of my projects are available at [https://github.com/BableshAAzad](https://github.com/BableshAAzad)
-
-- 📝 I regularly write articles on [https://bableshaazad.com/](https://bableshaazad.com/)
-
-- 💬 Ask me about **Java, Spring Boot, Reactjs, JavaScript**
-
-- 📫 How to reach me **bableshaazad@outlook.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/bableshaazad/](https://www.linkedin.com/in/bableshaazad/)
+- 📫 How to reach me **https://bableshaazad.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
