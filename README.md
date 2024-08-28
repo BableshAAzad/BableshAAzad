@@ -9,24 +9,19 @@
 
 
 <p align="left"> 
-`<span align="left">Backend Languages: </span>`
-Java  |  Hibernate  |  Spring  |  Spring Boot  |  Spring Security  |  JWT | JDBC | Servlet & Thymeleaf
+`Backend Languages: ` Java  |  Hibernate  |  Spring  |  Spring Boot  |  Spring Security  |  JWT | JDBC | Servlet & Thymeleaf
 </p>
 
 <p align="left">
-`<span align="left">Frontend Languages: </span>`
- HTML5  |  CSS3  |  Tailwind CSS  |  JavaScript  |  ReactJS  |  React Router Dom | Redux | Zustand
+`Frontend Languages: ` HTML5  |  CSS3  |  Tailwind CSS  |  JavaScript  |  ReactJS  |  React Router Dom | Redux | Zustand
 </p>
 
 <p align="left">
-`<span align="left">Databases: </span>`
-MySQL  |  MongoDB
+`Databases: ` MySQL  |  MongoDB
 </p>
 
-
 <p align="left">
-`<span align="left">Tools: </span>`
-Git & GitHub  |  Postman | CI/CD | Docker | Eclipse IDE  |  Spring Tool Suite  |  IntelliJ IDEA  |  VS Code
+`Tools: ` Git & GitHub  |  Postman | CI/CD | Docker | Eclipse IDE  |  Spring Tool Suite  |  IntelliJ IDEA  |  VS Code
 </p>
 
 
