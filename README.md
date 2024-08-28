@@ -8,20 +8,25 @@
 
 </hr>
 
- <span style="color:red; font-weight:bold;">Backend Languages: </span>
-  `Java`  |  `Hibernate`  |  `Spring`  |  `Spring Boot`  |  `Spring Security`  |  `JWT` | `JDBC` | `Servlet & Thymeleaf`
+[![](https://img.shields.io/badge/Backend Languages:-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
+[![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
+[![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
+[![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
 
- <span style="color:red; font-weight:bold;">Frontend Languages: </span>
-  `HTML5`  |  `CSS3`  |  `Tailwind CSS ` |  `JavaScript`  |  `ReactJS`  |  `React Router Dom` | `Redux` | `Zustand`
+ >[!CAUTION]⚙️ 
+ > `Java`  |  `Hibernate`  |  `Spring`  |  `Spring Boot`  |  `Spring Security`  |  `JWT` | `JDBC` | `Servlet & Thymeleaf`
 
- <span style="color:red; font-weight:bold;">Databases: </span> `MySQL`  |  `MongoDB`
+ >💻 + Frontend Languages:
+ > `HTML5`  |  `CSS3`  |  `Tailwind CSS ` |  `JavaScript`  |  `ReactJS`  |  `React Router Dom` | `Redux` | `Zustand`
 
- <span style="color:red; font-weight:bold;">Tools: </span> 
- `Git & GitHub`  |  `Postman` | `CI/CD`| `Docker` | `Eclipse IDE`  |  `Spring Tool Suite`  |  `IntelliJ IDE`A  |  `VS Code`
+ >📚 ! Databases: `MySQL`  |  `MongoDB`
+
+ >🛠️ @@ Tools: 
+ >`Git & GitHub`  |  `Postman` | `CI/CD`| `Docker` | `Eclipse IDE`  |  `Spring Tool Suite`  |  `IntelliJ IDE`A  |  `VS Code`
 
 </hr>
 
-<span align="left">Connect with me:</span>
+<span align="left">📞📲 Connect with me:</span>
 <p align="left">
 <a href="https://twitter.com/bableshaazad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bableshaazad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bableshaazad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bableshaazad" height="30" width="40" /></a>
