@@ -1,0 +1,27 @@
+name: Generate GitHub Readme Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # Runs every Monday
+  workflow_dispatch:
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Generate Stats
+        uses: anuraghazra/github-readme-stats@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "bableshaazad@outlook.com"
+          git config --local user.name "BableshAAzad"
+          git add README.md
+          git commit -m "Update README with stats" || echo "No changes to commit"
+          git push
