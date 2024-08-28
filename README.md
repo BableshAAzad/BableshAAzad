@@ -5,17 +5,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bableshaazad&label=Profile%20views&color=0e75b6&style=flat" alt="bableshaazad" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bableshaazad" target="blank"><img src="https://img.shields.io/twitter/follow/bableshaazad?logo=twitter&style=for-the-badge" alt="bableshaazad" /></a> </p>
-- 📫 How to reach me [BableshAAzad.com](https://bableshaazad.com)
 
+</hr>
 
-`Backend Languages:` **Java  |  Hibernate  |  Spring  |  Spring Boot  |  Spring Security  |  JWT | JDBC | Servlet & Thymeleaf**
+ <span style="color:red; font-weight:bold;">Backend Languages: </span>
+  `Java`  |  `Hibernate`  |  `Spring`  |  `Spring Boot`  |  `Spring Security`  |  `JWT` | `JDBC` | `Servlet & Thymeleaf`
 
-`Frontend Languages:` **HTML5  |  CSS3  |  Tailwind CSS  |  JavaScript  |  ReactJS  |  React Router Dom | Redux | Zustand**
+ <span style="color:red; font-weight:bold;">Frontend Languages: </span>
+  `HTML5`  |  `CSS3`  |  `Tailwind CSS ` |  `JavaScript`  |  `ReactJS`  |  `React Router Dom` | `Redux` | `Zustand`
 
-`Databases:` **MySQL  |  MongoDB**
+ <span style="color:red; font-weight:bold;">Databases: </span> `MySQL`  |  `MongoDB`
 
-`Tools:` **Git & GitHub  |  Postman | CI/CD | Docker | Eclipse IDE  |  Spring Tool Suite  |  IntelliJ IDEA  |  VS Code**
+ <span style="color:red; font-weight:bold;">Tools: </span> 
+ `Git & GitHub`  |  `Postman` | `CI/CD`| `Docker` | `Eclipse IDE`  |  `Spring Tool Suite`  |  `IntelliJ IDE`A  |  `VS Code`
 
+</hr>
 
 <span align="left">Connect with me:</span>
 <p align="left">
