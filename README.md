@@ -8,21 +8,21 @@
 - 📫 How to reach me https://bableshaazad.com
 
 
-<p align="left"> 
-`Backend Languages: ` Java  |  Hibernate  |  Spring  |  Spring Boot  |  Spring Security  |  JWT | JDBC | Servlet & Thymeleaf
-</p>
+<h4 align="left"> 
+`Backend Languages:` Java  |  Hibernate  |  Spring  |  Spring Boot  |  Spring Security  |  JWT | JDBC | Servlet & Thymeleaf
+</h4>
 
-<p align="left">
-`Frontend Languages: ` HTML5  |  CSS3  |  Tailwind CSS  |  JavaScript  |  ReactJS  |  React Router Dom | Redux | Zustand
-</p>
+<h4 align="left">
+`Frontend Languages:` HTML5  |  CSS3  |  Tailwind CSS  |  JavaScript  |  ReactJS  |  React Router Dom | Redux | Zustand
+</h4>
 
-<p align="left">
-`Databases: ` MySQL  |  MongoDB
-</p>
+<h4 align="left">
+`Databases:` MySQL  |  MongoDB
+</h4>
 
-<p align="left">
-`Tools: ` Git & GitHub  |  Postman | CI/CD | Docker | Eclipse IDE  |  Spring Tool Suite  |  IntelliJ IDEA  |  VS Code
-</p>
+<h4 align="left">
+`Tools:` Git & GitHub  |  Postman | CI/CD | Docker | Eclipse IDE  |  Spring Tool Suite  |  IntelliJ IDEA  |  VS Code
+</h4>
 
 
 <span align="left">Connect with me:</span>
