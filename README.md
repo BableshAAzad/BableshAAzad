@@ -35,23 +35,7 @@
 <a href="https://discord.com/invite/YphCQRq9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bableshaazad" height="30" width="40" /></a>
 </p>
 
-user(login: "BableshAAzad") {
-    repositories(ownerAffiliations: OWNER, isFork: false, first: 100) {
-      nodes {
-        nameWithOwner
-        isFork
-        languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
-          edges {
-            size
-            node {
-              color
-              name
-            }
-          }
-        }
-      }
-    }
-  }
+![Language Usage](./language-graph.svg)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bableshaazad&theme=great-gatsby&show_icons=true&locale=en&layout=compact" alt="bableshaazad" /></p>
 
