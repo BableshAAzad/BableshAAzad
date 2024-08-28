@@ -13,19 +13,18 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v3
 
-      - name: Bablesh AAzad
-        uses: BableshAAzad/setup-deno@v1
+      - name: Set up deno
+        uses: denoland/setup-deno@v1
 
       - name: Generate Language Graph
         run: |
           deno install --allow-net --allow-write --allow-read --unstable https://deno.land/x/readme_stats@1.0.5/mod.ts
           deno run --allow-net --allow-write --allow-read --unstable https://deno.land/x/readme_stats@1.0.5/mod.ts --output language-graph.svg
-          mv language-graph.svg language-graph.svg
 
       - name: Commit and Push
         run: |
           git config --local user.email "bableshaazad@outlook.com"
           git config --local user.name "BableshAAzad"
           git add language-graph.svg
-          git commit -m "Update language graph"
+          git commit -m "Update language graph" || echo "No changes to commit"
           git push
