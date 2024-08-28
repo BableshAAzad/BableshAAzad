@@ -8,18 +8,6 @@
 
 </hr>
 
- ⚙️ $${\color{red}Backend Languages:}$$ 
-  `Java`  |  `Hibernate`  |  `Spring`  |  `Spring Boot`  |  `Spring Security`  |  `JWT` | `JDBC` | `Servlet & Thymeleaf`
-
- 💻 $${\color{red}Frontend Languages:}$$ 
-  `HTML5`  |  `CSS3`  |  `Tailwind CSS ` |  `JavaScript`  |  `ReactJS`  |  `React Router Dom` | `Redux` | `Zustand`
-
- 📚 $${\color{red}Databases:}$$ `MySQL`  |  `MongoDB`
-
- 🛠️ $${color{red}Tools:}$$ 
- `Git & GitHub`  |  `Postman` | `CI/CD`| `Docker` | `Eclipse IDE`  |  `Spring Tool Suite`  |  `IntelliJ IDE`A  |  `VS Code`
-
-
  ⚙️ **Backend Languages:** 
   `Java`  |  `Hibernate`  |  `Spring`  |  `Spring Boot`  |  `Spring Security`  |  `JWT` | `JDBC` | `Servlet & Thymeleaf`
 
@@ -30,7 +18,6 @@
 
 🛠️ **Tools:** 
  `Git & GitHub`  |  `Postman` | `CI/CD`| `Docker` | `Eclipse IDE`  |  `Spring Tool Suite`  |  `IntelliJ IDEA`  |  `VS Code`
-
 
 </hr>
 
