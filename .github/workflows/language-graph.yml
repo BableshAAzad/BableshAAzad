@@ -1,0 +1,31 @@
+name: Generate Language Usage Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # Runs every Monday
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Bablesh AAzad
+        uses: BableshAAzad/setup-deno@v1
+
+      - name: Generate Language Graph
+        run: |
+          deno install --allow-net --allow-write --allow-read --unstable https://deno.land/x/readme_stats@1.0.5/mod.ts
+          deno run --allow-net --allow-write --allow-read --unstable https://deno.land/x/readme_stats@1.0.5/mod.ts --output language-graph.svg
+          mv language-graph.svg language-graph.svg
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "bableshaazad@outlook.com"
+          git config --local user.name "BableshAAzad"
+          git add language-graph.svg
+          git commit -m "Update language graph"
+          git push
