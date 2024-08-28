@@ -1,8 +1,9 @@
 name: Update Language Graph
 
 on:
-  schedule:
-    - cron: '0 0 * * 1'  # Runs every Monday
+  push:
+    branches:
+      - main  # Replace with your default branch name if different
   workflow_dispatch:
 
 jobs:
@@ -16,11 +17,11 @@ jobs:
       - name: Download language graph
         run: |
           curl -o language-graph.png "https://ionicabizau.github.io/github-profile-languages/api.html?bableshaazad"
-          
+
       - name: Commit and push changes
         run: |
           git config --local user.email "bableshaazad@outlook.com"
           git config --local user.name "bableshaazad"
           git add language-graph.png
-          git commit -m "Update language graph"
+          git commit -m "Update language graph" || echo "No changes to commit"
           git push
