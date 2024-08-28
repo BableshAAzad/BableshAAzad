@@ -35,7 +35,7 @@
 <a href="https://discord.com/invite/YphCQRq9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bableshaazad" height="30" width="40" /></a>
 </p>
 
-![Language Usage](./language-graph.png)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JmKanmo&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)](https://github.com/JmKanmo/JmKanmo)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bableshaazad&theme=great-gatsby&show_icons=true&locale=en&layout=compact" alt="bableshaazad" /></p>
 
