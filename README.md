@@ -42,4 +42,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bableshaazad&theme=dark" alt="bableshaazad" /></p>
 
-<p><img align="center" src="https://ionicabizau.github.io/github-profile-languages/api.html?bableshaazad" alt="bableshaazad" /></p>
+<!--<p><img align="center" src="https://ionicabizau.github.io/github-profile-languages/api.html?bableshaazad" alt="bableshaazad" /></p> -->
