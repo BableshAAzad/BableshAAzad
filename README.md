@@ -1,4 +1,4 @@
-## Hi :smile:I am "Bablesh AAzad" 
+## Hi :smile:I'm "Bablesh AAzad" 
 
 " `I'm a self-taught passionate FullStack Web App Developer from India. 💬 Ask me about anything` [BableshAAzad.com](https://bableshaazad.com). "
 
