@@ -9,7 +9,7 @@
 </hr>
 
  ⚙️ **Backend Languages:** 
-  `Java`  |  `Hibernate`  |  `Spring`  |  `Spring Boot`  |  `Spring Security`  |  `JWT` | `JDBC` | `Servlet & Thymeleaf`
+  `Java`  |  `Hibernate`  |  `Spring`  |  `Spring Boot`  |  `Spring Security`  |  `JWT` | `JDBC` | `Servlet & Thymeleaf` | `NodeJs` | `ExpressJs`
 
 💻 **Frontend Languages:** 
   `HTML5`  |  `CSS3`  |  `Tailwind CSS`  |  `JavaScript`  |  `ReactJS`  |  `React Router Dom` | `Redux` | `Zustand`
