@@ -12,9 +12,9 @@
   `Java`  |  `Hibernate`  |  `Spring`  |  `Spring Boot`  |  `Spring Security`  |  `JWT` | `JDBC` | `Servlet & Thymeleaf` | `NodeJs` | `ExpressJs` | `Micro-Services`
 
 💻 **Frontend Languages:** 
-  `HTML5`  |  `CSS3`  |  `Tailwind CSS`  |  `JavaScript` | `ReactJS` | `React Router Dom` | `Redux` | `Zustand` | `Angular` | `Bootstrap` 
+  `HTML5`  |  `CSS3`  |  `Tailwind CSS`  |  `JavaScript` | `Type-Script` | `ReactJS` | `React Router Dom` | `Redux` | `Zustand` | `Angular` | `Bootstrap` 
 
-📚 **Databases:** `MySQL`  |  `MongoDB` |  `MoariaDB` |  `MSSQL`
+📚 **Databases:** `MySQL`  |  `MongoDB` |  `MariaDB` |  `MSSQL`
 
 🛠️ **Tools:** 
  `Git & GitHub`  |  `Postman` | `CI/CD`| `Docker` | `Eclipse IDE` | `Spring Tool Suite` | `IntelliJ IDEA` | `VS Code`
